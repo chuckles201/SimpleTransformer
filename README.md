@@ -3,4 +3,6 @@ Transformer Implemented in Pytorch for language modeling. Only base mathematical
 are borrowed from pytorch, everything else is done from scratch
 
  - No autograd used (backpropogation by hand!)
- - No torch.nn used, all layers done by hand
+ - No torch.nn used, all layers done from scratch
+ - Detailed explanations for each step of Transformer
+ - Inspired by Andrej Karpath's tutorials
