@@ -11,3 +11,7 @@ are borrowed from pytorch, everything else is done from scratch
 ### Improvement to be made
 - Write custom kernels in CUDA/C++ (its sooo slow right now)
 - Ability to save weights/load weights from other pretrained transformers
+
+
+***Note*** 
+This is not finished! Soon I finalize this.
