@@ -17,6 +17,8 @@ are borrowed from pytorch, everything else is done from scratch
 This is not finished! Soon I finalize this. Right now the computations are 
 VERY slow and do not utilize the hardware.
 
+### Future models
+- Implement Multimodal Transformer from scratch-similar to facebooks movie-gen models
 
 ## Refrences
 
