@@ -16,3 +16,14 @@ are borrowed from pytorch, everything else is done from scratch
 ***Note*** 
 This is not finished! Soon I finalize this. Right now the computations are 
 VERY slow and do not utilize the hardware.
+
+
+## Refrences
+
+Attention is All you need()
+Layer Norm Architecture()
+Layer Norm()
+
+
+
+Andrej Karpathy()
